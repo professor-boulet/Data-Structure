@@ -5,23 +5,23 @@ A data structure is a specific format for organizing, storing, and processing da
 
 ## Prerequiste
   *  CST 1100 : Introduction to Computer Systems
-  *  CST 1101 : Problem Solving with Computer Programming (PYTHON)
+  *  CST 1101 : Problem Solving with Computer Programming with Python
   *  CST 1201 : Java Programming Fundmentals
-  *  CST 2309 : Introduction to Web Programming
-    
+  *  CST 2309 : Introduction to Web Programming    
 
 ## Resources
   *  [BigO Cheatsheet](https://www.bigocheatsheet.com/)
   *  [Java Tutorial](https://www.w3schools.com/java/)
+  *  [Runtime and Space Complexity](https://www.linkedin.com/pulse/big-o-notation-time-complexity-algorithm-vikas-kumar)
 
 ## Course Outline
 
 #### Week 1
   *  Environment setup (Visual Studio Code, (JDK) Java Installation, Intellij, and Maven)
-  *  Java Concept
+  *  Java Concept / Review
       * Functional Coding and Object Oriented Programming
       * Generics, Interfaces, @Funtional Interfaces
-  *  Big O Concepts
+  *  Big O Concepts    
     
 #### Week 2
   *  Array, DynamicArray or List, SortedDynamicArray
