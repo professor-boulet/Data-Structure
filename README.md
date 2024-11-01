@@ -31,4 +31,7 @@ A data structure is a specific format for organizing, storing, and processing da
 #### Week 3
   *  BinaryTree
   *  AVL Tree
-  *  Dictionary or Map    
+  *  Dictionary or Map
+#### Mock Techincal Interview
+#### Post Assessment
+
