@@ -20,18 +20,18 @@ A data structure is a specific format for organizing, storing, and processing da
   *  Environment setup (Visual Studio Code, (JDK) Java Installation, Intellij, and Maven)
   *  Java Concept / Review
       * Functional Coding and Object Oriented Programming
-      * Generics, Interfaces, @Funtional Interfaces
+      * Generics, Interfaces, @Functional Interfaces
   *  Big O Concepts    
     
 #### Week 2
   *  Array, DynamicArray or List, SortedDynamicArray
-  *  BinarySeanch (linear)
+  *  BinarySearch (linear)
   *  SinglyLinkedList and DoublyLinkedList
     
 #### Week 3
   *  BinaryTree
   *  AVL Tree
   *  Dictionary or Map
-#### Mock Techincal Interview
+#### Mock Technical Interview
 #### Post Assessment
 
