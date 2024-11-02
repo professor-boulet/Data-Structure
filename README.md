@@ -33,5 +33,6 @@ A data structure is a specific format for organizing, storing, and processing da
   *  AVL Tree
   *  Dictionary or Map
 #### Mock Technical Interview
+ *  [Coding Questions](https://docs.google.com/document/d/1331ZOHxlguq-3hDjrIjNPSNDQ5IlBnXPSOvAEEEeAF8/edit?tab=t.0)
 #### Post Assessment
 
