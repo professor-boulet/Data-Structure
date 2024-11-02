@@ -34,5 +34,6 @@ A data structure is a specific format for organizing, storing, and processing da
   *  Dictionary or Map
 #### Mock Technical Interview
  *  [Coding Questions](https://docs.google.com/document/d/1331ZOHxlguq-3hDjrIjNPSNDQ5IlBnXPSOvAEEEeAF8/edit?tab=t.0)
+ *  [Final_TTP DS&Alg Interview questions](https://docs.google.com/spreadsheets/d/17BofgX6XaOSVbUGKCxbj0UD2dCoBCMpflNgSbklRfBs/edit?gid=0#gid=0)
 #### Post Assessment
 
