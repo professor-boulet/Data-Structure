@@ -1,7 +1,7 @@
 # Data-Structure
 Fall 2024 Data Structure
 
-A data structure is a specific format for organizing, storing, and processing data within a computer system, allowing for efficient access and manipulation of information based on the relationships between data values and the operations that can be performed on them; essentially, it's a way to arrange data in a structured manner to suit a specific purpose and make it easier to use by both users and machines.
+A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures/) is a specific format for organizing, storing, and processing data within a computer system, allowing for efficient access and manipulation of information based on the relationships between data values and the operations that can be performed on them; essentially, it's a way to arrange data in a structured manner to suit a specific purpose and make it easier to use by both users and machines.
 
 ## Prerequiste
   *  CST 1100 : Introduction to Computer Systems
@@ -17,7 +17,7 @@ A data structure is a specific format for organizing, storing, and processing da
 ## Course Outline
 
 #### Week 1
-  *  Environment setup (Visual Studio Code, (JDK) Java Installation, Intellij, and Maven)
+  *  Environment setup Visual Studio Code [link](https://code.visualstudio.com/download) , (JDK) Java Installation [link](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html), Intellij(link)[https://www.jetbrains.com/idea/download/?section=windows], and Maven)
   *  Java Concept / Review
       * Functional Coding and Object Oriented Programming
       * Generics, Interfaces, @Functional Interfaces
@@ -25,7 +25,7 @@ A data structure is a specific format for organizing, storing, and processing da
     
 #### Week 2
   *  Array, DynamicArray or List, SortedDynamicArray
-  *  BinarySearch (linear)
+  *  Sorting Data (https://www.geeksforgeeks.org/quick-sort-algorithm/?ref=shm) and BinarySearch [(linear)](https://www.geeksforgeeks.org/binary-search/)
   *  [SinglyLinkedList](https://www.geeksforgeeks.org/singly-linked-list-tutorial/#understanding-node-structure) and [DoublyLinkedList](https://www.geeksforgeeks.org/introduction-and-insertion-in-a-doubly-linked-list/?ref=shm)
     
 #### Week 3
