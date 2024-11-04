@@ -26,7 +26,7 @@ A data structure is a specific format for organizing, storing, and processing da
 #### Week 2
   *  Array, DynamicArray or List, SortedDynamicArray
   *  BinarySearch (linear)
-  *  SinglyLinkedList and DoublyLinkedList
+  *  [SinglyLinkedList](https://www.geeksforgeeks.org/singly-linked-list-tutorial/#understanding-node-structure) and [DoublyLinkedList](https://www.geeksforgeeks.org/introduction-and-insertion-in-a-doubly-linked-list/?ref=shm)
     
 #### Week 3
   *  BinaryTree
