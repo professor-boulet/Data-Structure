@@ -21,7 +21,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
   *  Java Concept / Review
       * Functional Coding and Object Oriented Programming
       * Generics [link](https://docs.oracle.com/javase/tutorial/java/generics/why.html), Interfaces [link](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html), @Functional Interfaces [link](https://www.geeksforgeeks.org/functional-interfaces-java/)
-  *  Big O Concepts    
+  *  Big O Concepts [youtube link](https://www.youtube.com/watch?v=XMUe3zFhM5c)
     
 #### Week 2
   *  Array, DynamicArray or List, SortedDynamicArray
@@ -31,7 +31,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
 #### Week 3
   *  BinaryTree [link](https://www.geeksforgeeks.org/binary-search-tree-data-structure/#)
   *  AVL Tree
-  *  Dictionary or Map [link](https://www.youtube.com/watch?v=FsfRsGFHuv4&t=320s)
+  *  Dictionary or Map [youtube link](https://www.youtube.com/watch?v=FsfRsGFHuv4&t=320s)
 #### Technical Interview
  *  [Coding Questions](https://docs.google.com/document/d/1331ZOHxlguq-3hDjrIjNPSNDQ5IlBnXPSOvAEEEeAF8/edit?tab=t.0)
  *  [Final_TTP DS&Alg Interview questions](https://docs.google.com/spreadsheets/d/17BofgX6XaOSVbUGKCxbj0UD2dCoBCMpflNgSbklRfBs/edit?gid=0#gid=0)
