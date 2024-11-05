@@ -29,7 +29,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
   *  [SinglyLinkedList](https://www.geeksforgeeks.org/singly-linked-list-tutorial/#understanding-node-structure) and [DoublyLinkedList](https://www.geeksforgeeks.org/introduction-and-insertion-in-a-doubly-linked-list/?ref=shm)
     
 #### Week 3
-  *  BinaryTree
+  *  BinaryTree [link])(https://www.geeksforgeeks.org/binary-search-tree-data-structure/#)
   *  AVL Tree
   *  Dictionary or Map
 #### Technical Interview
