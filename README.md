@@ -20,7 +20,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
   *  Environment setup Visual Studio Code [link](https://code.visualstudio.com/download) , (JDK) Java Installation [link](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html), Intellij [link](https://www.jetbrains.com/idea/download/?section=windows) , and Maven)
   *  Java Concept / Review
       * Functional Coding and Object Oriented Programming
-      * Generics [link](https://docs.oracle.com/javase/tutorial/java/generics/why.html), Interfaces[link](), @Functional Interfaces[link](https://www.geeksforgeeks.org/functional-interfaces-java/)
+      * Generics [link](https://docs.oracle.com/javase/tutorial/java/generics/why.html), Interfaces [link](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html), @Functional Interfaces [link](https://www.geeksforgeeks.org/functional-interfaces-java/)
   *  Big O Concepts    
     
 #### Week 2
@@ -31,7 +31,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
 #### Week 3
   *  BinaryTree [link](https://www.geeksforgeeks.org/binary-search-tree-data-structure/#)
   *  AVL Tree
-  *  Dictionary or Map
+  *  Dictionary or Map [link](https://www.youtube.com/watch?v=FsfRsGFHuv4&t=320s)
 #### Technical Interview
  *  [Coding Questions](https://docs.google.com/document/d/1331ZOHxlguq-3hDjrIjNPSNDQ5IlBnXPSOvAEEEeAF8/edit?tab=t.0)
  *  [Final_TTP DS&Alg Interview questions](https://docs.google.com/spreadsheets/d/17BofgX6XaOSVbUGKCxbj0UD2dCoBCMpflNgSbklRfBs/edit?gid=0#gid=0)
