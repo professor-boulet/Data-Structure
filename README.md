@@ -1,8 +1,8 @@
 # Data-Structure
-## Fall 2024 Data Structure
-## Email: jean.boulet65@login.cuny.edu
-## Subject: DSA | Topics
-## Video Instructions [link](https://drive.google.com/drive/folders/13DEuuN2U-2mGm5nSJwi0ONuX-0D6T4y1?usp=sharing)
+* Fall 2024 Data Structure
+* Email: jean.boulet65@login.cuny.edu
+* Subject: DSA | Topics
+* Video Instructions [link](https://drive.google.com/drive/folders/13DEuuN2U-2mGm5nSJwi0ONuX-0D6T4y1?usp=sharing)
 
 A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures/) is a specific format for organizing, storing, and processing data within a computer system, allowing for efficient access and manipulation of information based on the relationships between data values and the operations that can be performed on them; essentially, it's a way to arrange data in a structured manner to suit a specific purpose and make it easier to use by both users and machines.
 
