@@ -17,7 +17,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
 ## Course Outline
 
 #### Week 1
-  *  Environment setup Visual Studio Code [link](https://code.visualstudio.com/download) , (JDK) Java Installation [link](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html), Intellij [link](https://www.jetbrains.com/idea/download/?section=windows) , and Maven)
+  *  Environment setup Visual Studio Code [link](https://code.visualstudio.com/download) , (JDK) Java Installation [link](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html), Intellij [link](https://www.jetbrains.com/idea/download/?section=windows) , and Maven [link](https://maven.apache.org/download.cgi)
   *  Java Concept / Review
       * Functional Coding and Object Oriented Programming
       * Generics [link](https://docs.oracle.com/javase/tutorial/java/generics/why.html), Interfaces [link](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html), @Functional Interfaces [link](https://www.geeksforgeeks.org/functional-interfaces-java/)
