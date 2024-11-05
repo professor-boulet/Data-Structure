@@ -25,7 +25,7 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
     
 #### Week 2
   *  Array, DynamicArray or List, SortedDynamicArray
-  *  Sorting Data (https://www.geeksforgeeks.org/quick-sort-algorithm/?ref=shm) and BinarySearch [(linear)](https://www.geeksforgeeks.org/binary-search/)
+  *  Sorting Data [link](https://www.geeksforgeeks.org/quick-sort-algorithm/?ref=shm) and BinarySearch [(linear)](https://www.geeksforgeeks.org/binary-search/)
   *  [SinglyLinkedList](https://www.geeksforgeeks.org/singly-linked-list-tutorial/#understanding-node-structure) and [DoublyLinkedList](https://www.geeksforgeeks.org/introduction-and-insertion-in-a-doubly-linked-list/?ref=shm)
     
 #### Week 3
