@@ -19,6 +19,8 @@ A [data structure](https://www.geeksforgeeks.org/introduction-to-data-structures
 
 ## Course Outline
 
+### Pre Assessment [link](https://docs.google.com/document/d/1RYkeA4gmFCkGryceYNjVsmQKEkrXyLhN-C5MCYFNaAY/edit?usp=sharing)
+
 #### Week 1
   *  Environment setup Visual Studio Code [link](https://code.visualstudio.com/download) , (JDK) Java Installation [link](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html), Intellij [link](https://www.jetbrains.com/idea/download/?section=windows) , and Maven [link](https://maven.apache.org/download.cgi)
   *  Java Concept / Review
